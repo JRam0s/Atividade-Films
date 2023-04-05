@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://br.maisfontes.com/harry-potter.fonte');
+
+*{
+    font-family: 'lobster', cursive;
+    scroll-behavior: smooth;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#banner{
+    background-image: url("../img/harrypotterprincipal.webp");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: #ffc600;
+    
+}
+
+body{
+
+    background-color: rgb(176, 9, 9);
+}
+
+nav ul{
+    list-style-type: none;
+    font-size: 20px;
+}
+
+nav ul li a{
+    color: #ffc600;
+    text-decoration: none;
+}
+
+nav ul li mark{
+    color: #ffc600;
+    background-color: red;
+    margin:0;
+    margin-top:30px;
+    border-top:3.5px solid black;
+    border-left:3.5px solid black;
+    border-radius: 10px;
+
+}
+
+.titulo{
+    text-align: center;
+    color: #ffc600;
+}
+
+h4{
+
+    color: #ffc600;
+}
+
+h4 mark{
+    color: #ffc600;
+    background-color: red;
+    margin:0;
+    margin-top:30px;
+    border-top:3.5px solid black;
+    border-left:3.5px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+h1 mark{
+    color: #ffc600;
+    background-color: red;
+    margin:0;
+    margin-top:30px;
+    border-top:3.5px solid black;
+    border-left:3.5px solid black;
+    border-radius: 10px;
+}
+
+h2 h3{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 mark{
+    color: 	#ffc600;
+    background-color: red;
+    margin:0;
+    margin-top:30px;
+    border-top:3.5px solid black;
+    border-left:3.5px solid black;
+    border-radius: 10px;
+}
+
+h3 mark{
+    color: #ffc600;
+    background-color: red;
+    margin:0;
+    margin-top:30px;
+    border-top:3.5px solid black;
+    border-left:3.5px solid black;
+    border-radius: 10px;
+}
+
+.sub {
+    text-align: center;
+    font-size: 25px;
+    color: 	#ffc600;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 30%;
+    height: 30%;
+}
+
+figcaption{
+    text-align: center;
+    padding-top: 5px;
+    color: #ffc600;
+    font-size: 20px;
+}
+
+main div{
+    padding: 20px;
+}
+
+header ul li{
+    margin: 10px;
+}
+
+header li{
+    padding: 5px;
+}
+
+header h1{
+    padding: 5px;
+}
+
+header h2{
+    padding: 5px;
+}
+
+.icone{
+    color: #ffc600;
+}
+
+a{
+    color: #ffc600;
+}
+
+p{
+    font-size: 20px;
+}
+
+.personagens ul li{
+    font-size: 20px;
+}
+
+h5, h6{
+    font-size: 15px;
+    text-align: center;
+}
+.contato_insta{
+    text-align: center;
+}
+
+
+
